@@ -1,10 +1,11 @@
-El proyecto trata sobre un sistema de facturacion funcional para un restaurante.
-Permite seleccionar productos del menu y agregar la cantidad que se desee por ítem, también calculará los costos, sub-totales y totales de la cuenta.
-Por último, el mismo imprimirá una factura en formato de texto plano, con los correspondientes cálculos de IVA.
+Proyecto: Sistema de Facturación para Restaurantes
 
-Para el desarrollo se empleó Python como lenguaje.
-Librerías utilizadas:
+Este proyecto es un sistema de facturación funcional  diseñado específicamente para restaurantes.
+La aplicación permite al usuario seleccionar productos del menú y especificar la cantidad deseada para cada uno.
+Automáticamente, el sistema se encarga de calcular los costos, incluyendo subtotales y el costo total de la cuenta. Una característica clave es la capacidad de generar e imprimir una factura detallada en formato de texto plano, que incluye los cálculos de IVA correspondientes.
+
+Tecnologías y Librerías:
+Este sistema fue desarrollado completamente en Python. Se utilizaron las siguientes librerías para su construcción:
 - tkinter
 - random
 - datetime
-
